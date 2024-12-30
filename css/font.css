@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Hanwha";
+    src: url(../fonts/01HanwhaB_OTF.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Hanwha";
+    src: url(../fonts/02HanwhaR_OTF.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Hanwha";
+    src: url(../fonts/03HanwhaL_OTF.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "HanwhaGothic";
+    src: url(../fonts/04HanwhaGothicB_OTF.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "HanwhaGothic";
+    src: url(../fonts/05HanwhaGothicR_OTF.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "HanwhaGothic";
+    src: url(../fonts/06HanwhaGothicL_OTF.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "HanwhaGothic";
+    src: url(../fonts/07HanwhaGothicEL_OTF.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "HanwhaGothic";
+    src: url(../fonts/08HanwhaGothicT_OTF.otf);
+    font-weight: 100;
+}
