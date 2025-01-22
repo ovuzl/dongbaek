@@ -15,15 +15,10 @@ html{
     min-width: 300px;
 }
 
-.wrap{padding: 0 20px;}
+.wrap{padding: 4px 20px;}
 
 header{
-    position: fixed;
     width: 100%;
-    z-index: 999999;
-    left: 50%;
-    top: 0;
-    transform: translate(-50%, 0);
 }
 header .wrap{
     display: flex;
@@ -115,7 +110,7 @@ header .wrap .btn-opn.on::after{
 }
 .banner .wrap .text p{
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 400;
     line-height: 28px;
     margin-bottom: 20px;
 }
